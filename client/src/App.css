@@ -1,0 +1,18 @@
+
+body{
+  background-color: #FFFAA0;
+}
+.App {
+  position: relative;
+  text-align: center;
+  
+  
+}
+
+
+.spline{
+  position: absolute;
+  margin: 0;
+  top: 0;
+  right: 0;
+}
